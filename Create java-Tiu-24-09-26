@@ -150,3 +150,6 @@ System.out.println("power(5,3)" + power(5,3));
 scanner.close();
     }
 }
+
+\\ INTRO CARD
+import java.util.Scanner
